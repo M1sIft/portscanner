@@ -1,4 +1,4 @@
-# portscanner
+# portscanner（内含Banner扫描）
 # 操作方法：
 * 打开portscanner.py
 * 直接输入域名/IP地址即可
